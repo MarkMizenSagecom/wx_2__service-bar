@@ -1,0 +1,16 @@
+.service-bar {
+  margin: 1rem 0;
+  background: #607D8B;
+  color: white;
+}
+.service-bar__inner{
+  padding: 0 2rem;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 75rem;
+  height: 5rem;
+  display: flex;
+}
+span {
+  margin: auto;
+}
